@@ -2,6 +2,8 @@ import { Link, Outlet, useLocation } from 'react-router-dom';
 import { LayoutDashboard, Package, ShoppingCart, Users, Tag, MessageSquare } from 'lucide-react';
 import styles from '../styles/AdminDashboard.module.css';
 
+const API_BASE_URL = import.meta.env.VITE_API_URL;
+
 const AdminSidebar = () => {
     const location = useLocation();
     const navLinks = [
