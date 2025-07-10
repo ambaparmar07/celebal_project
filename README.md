@@ -1,5 +1,15 @@
 🛒 E-commerce Platform
-A full-stack e-commerce web application featuring user authentication, admin product management, shopping cart, wishlist, and order processing. Built with a React frontend and Node.js/Express backend.
+A full-stack e-commerce web application featuring:
+
+🔐 User authentication
+
+🛠 Admin product management
+
+🛒 Shopping cart and wishlist
+
+📦 Order processing system
+
+Built with a React frontend and Node.js/Express backend.
 
 🚀 Live Demo
 👉 https://celebal-project-frontend.vercel.app
@@ -12,7 +22,7 @@ A full-stack e-commerce web application featuring user authentication, admin pro
 📁 Project Structure
 
 ✨ Features
-🔐 User registration & login (JWT-based authentication)
+🔐 JWT-based user registration & login
 
 🛠 Admin dashboard for managing products & categories
 
@@ -27,7 +37,7 @@ A full-stack e-commerce web application featuring user authentication, admin pro
 📱 Fully responsive design
 
 🛠 Tech Stack
-Frontend
+🔷 Frontend
 ⚛️ React
 
 ⚡ Vite
@@ -36,7 +46,7 @@ Frontend
 
 🎨 CSS Modules & Tailwind CSS
 
-Backend
+🔶 Backend
 🟢 Node.js
 
 🚂 Express.js
