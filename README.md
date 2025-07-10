@@ -62,11 +62,13 @@ Built with a React frontend and Node.js/Express backend.
 🔐 JWT for secure authentication
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 celebal_project/
+
 │
-├── backend/               # Express API, models, controllers, routes
+
+├── backend/      # Express API, models, controllers, routes
+
 │
+
 └── ecommerce-frontend/    # React frontend powered by Vite
