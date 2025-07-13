@@ -15,6 +15,7 @@ Built with a React frontend and Node.js/Express backend.
 
 🚀 Live Demo:
 👉 https://celebal-project-frontend.vercel.app
+If website doesn't work, open it again in new tab.
 
 
 📚 Table of Contents:
